@@ -9,5 +9,6 @@ public class Lab001_Functions {
         int result2 = Math.max(3,4);
         System.out.println(result);
         System.out.println(result2);
+
     }
 }
