@@ -65,5 +65,58 @@ public class Qna {
 
 
  */
+
+/*
+//        print 1 to 10
+        for(int i = 1; i<=10; i++){
+            System.out.println(i);
+        }
+
+ */
+
+        /*
+        //print even number
+        for(int i=1;i<=20;i++){
+            if(i%2 == 0) {
+                System.out.println(i);
+            }
+        }
+
+         */
+
+        /*
+       int result =0;
+        //sum of numbers
+        for(int i=1;i<=100;i++){
+
+           result = result+i;
+        }
+        System.out.println(result);
+
+         */
+
+        /*
+        //loop through names
+//        Create a String array with 4 friend names. Print each name using for-each.
+
+
+        String friends_name[] = {"Priya", "shruti", "Riya", "Rohan"};
+        for(String name: friends_name){
+            System.out.println(name);
+        }
+
+
+         */
+
+        // Multiplication table
+//        int n = 5. Print its multiplication table from 1 to 10.
+
+        int n =5;
+        for(int i=1;i<=10;i++){
+            System.out.println(n+ "*" + i +  " = " + n*i);
+        }
+
     }
+
+
 }
